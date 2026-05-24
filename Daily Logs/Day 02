@@ -1,0 +1,34 @@
+# Day 02 🔐
+**Date:** May 14 2026
+
+## What I learned
+- /etc/passwd structure and how to decode it
+- /etc/shadow stores hashed passwords
+- /etc/group shows all groups
+- pipe | operator (like BODMAS brackets!!)
+- grep command for filtering
+- adduser and deluser commands
+- sudo group and why it matters
+- su command to switch users
+
+## Commands I know now
+- cat /etc/passwd
+- cat /etc/shadow
+- cat /etc/group
+- cat /etc/group | grep sudo
+- sudo adduser username
+- sudo deluser username
+- su username
+- script session.txt
+
+## Today's win
+decoded /etc/passwd line by line!!
+created and deleted user
+pipe + grep clicked like BODMAS 🧠
+
+## Struggles
+- sudo cd doesn't work (cd is a builtin!!)
+
+## Tomorrow's goal
+- package management
+- install first hacking tools 
