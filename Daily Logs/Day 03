@@ -1,0 +1,32 @@
+# Day 3 🔥
+
+## What I learned
+- nmap network scanning
+- scanned Google and localhost
+- mapped entire home network 
+- found all family devices
+- Wireshark packet capture
+- decoded HTTP packets
+- netcat two device communication
+- phone and laptop talking to each other
+- John the Ripper installed
+- package management with apt
+
+## Commands learned
+- nmap 192.168.1.0/24
+- nmap -sV target
+- nc -lvp 4444
+- nc IP port
+- wireshark
+- sudo apt install
+
+## Biggest moment
+mapped entire home network and found devices 😭🔥
+phone texting laptop through netcat!!
+
+## Struggles
+- Wireshark permissions issue
+
+## Tomorrow's goal
+- John the Ripper demo
+- Lesson 6 Processes
